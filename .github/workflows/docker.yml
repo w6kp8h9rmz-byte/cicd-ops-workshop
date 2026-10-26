@@ -2,7 +2,7 @@
 
 name: Docker
 
-# Run on push to a branch. test
+# Run on push to a branch. 
 on:
   push:
     branches: ["**"]
